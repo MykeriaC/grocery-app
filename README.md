@@ -19,3 +19,5 @@ Once a user picks from what food section they want to shop at, this program will
 
 # Cart Screen
 Once the user has decided to go to their cart and check out, the user is presented with a screen of their carted food items, as well as a total price for all of the items they have selected.
+
+https://mykeriac.github.io/grocery-app/
