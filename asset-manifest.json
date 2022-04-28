@@ -1,0 +1,39 @@
+{
+  "files": {
+    "app.js": "/grocery-app/static/js/app.e25e93aa.chunk.js",
+    "app.js.map": "/grocery-app/static/js/app.e25e93aa.chunk.js.map",
+    "runtime~app.js": "/grocery-app/static/js/runtime~app.7fff8f65.js",
+    "runtime~app.js.map": "/grocery-app/static/js/runtime~app.7fff8f65.js.map",
+    "static/js/2.4591a382.chunk.js": "/grocery-app/static/js/2.4591a382.chunk.js",
+    "static/js/2.4591a382.chunk.js.map": "/grocery-app/static/js/2.4591a382.chunk.js.map",
+    "fonts/AntDesign.ttf": "/grocery-app/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/grocery-app/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/grocery-app/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/grocery-app/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/grocery-app/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/grocery-app/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/grocery-app/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/grocery-app/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/grocery-app/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/grocery-app/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/grocery-app/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/grocery-app/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/grocery-app/favicon-16.png",
+    "favicon-32.png": "/grocery-app/favicon-32.png",
+    "favicon.ico": "/grocery-app/favicon.ico",
+    "index.html": "/grocery-app/index.html",
+    "manifest.json": "/grocery-app/manifest.json",
+    "serve.json": "/grocery-app/serve.json",
+    "static/js/2.4591a382.chunk.js.LICENSE.txt": "/grocery-app/static/js/2.4591a382.chunk.js.LICENSE.txt",
+    "static/media/bell.png": "/grocery-app/static/media/bell.cf04af27.png",
+    "static/media/food5.jpg": "/grocery-app/static/media/food5.6db83a19.jpg",
+    "static/media/heart.png": "/grocery-app/static/media/heart.23b5c2c0.png",
+    "static/media/rocket.png": "/grocery-app/static/media/rocket.d2f3bf41.png",
+    "static/media/star.png": "/grocery-app/static/media/star.69c71386.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.7fff8f65.js",
+    "static/js/2.4591a382.chunk.js",
+    "static/js/app.e25e93aa.chunk.js"
+  ]
+}
